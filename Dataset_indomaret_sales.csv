@@ -1,5 +1,5 @@
 Transaction_ID,Date,Product_Name,Category,Units_Sold,Unit_Price,Total_Revenue,Store_Location,Payment_Method
-T0001,2024-10-06,Pepsodent Toothpaste,Personal Care,40000,15000,675000.0,Jakarta,Cash
+T0001,2024-10-06,Pepsodent Toothpaste,Personal Care,40,15000,675000.0,Jakarta,Cash
 T0002,2024-10-01,ABC Kecap Manis 620ml,Groceries,60,18000,1080000.0,Jakarta,Card
 T0003,2024-10-01,Lifebuoy Body Wash,Personal Care,17,25000,425000.0,Medan,Cash
 T0004,2024-10-06,Milo 1kg,Drinks,95,90000,8550000.0,Bandung,Cash
